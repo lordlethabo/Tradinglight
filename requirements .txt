@@ -1,1 +1,7 @@
-Fgh
+fastapi
+uvicorn
+pandas
+twelvedata
+TA-Lib
+asyncio
+python-multipart
